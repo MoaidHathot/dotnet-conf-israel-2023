@@ -1,0 +1,1 @@
+These are `LinqPad` files. To read them either open them via a text editor (notepad, VsCode, etc...) or LinqPad
